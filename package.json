@@ -1,0 +1,15 @@
+{
+  "name": "New",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css css/custom.css --content components/main_chat2.php --output css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0"
+  }
+}
